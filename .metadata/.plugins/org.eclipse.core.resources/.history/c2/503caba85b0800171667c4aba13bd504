@@ -1,0 +1,12 @@
+
+import java.util.Scanner;
+
+public class Write {
+
+	public static void main(String args[])
+	{
+		Scanner n=new Scanner(System.in);
+		System.out.printf("n="+n);
+	}
+	
+}
